@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="android" url="file://$PROJECT_DIR$/example/android/app/src/debug/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/example/android/app/src/profile/AndroidManifest.xml" />
+  </component>
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/example/android/app/src/debug/debug.iml" filepath="$PROJECT_DIR$/example/android/app/src/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/app/src/main/example.iml" filepath="$PROJECT_DIR$/example/android/app/src/main/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_sdk_openpay.iml" filepath="$PROJECT_DIR$/flutter_sdk_openpay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/src/main/main.iml" filepath="$PROJECT_DIR$/android/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/app/src/profile/profile.iml" filepath="$PROJECT_DIR$/example/android/app/src/profile/profile.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="io.flutter" />
+  </component>
+  <component name="libraryTable">
+    <library name="Dart SDK">
+      <CLASSES>
+        <root url="file://$USER_HOME$/development/flutter/bin/cache/dart-sdk/lib/async" />
+        <root url="file://$USER_HOME$/development/flutter/bin/cache/dart-sdk/lib/cli" />
+        <root url="file://$USER_HOME$/development/flutter/bin/cache/dart-sdk/lib/collection" />
+        <root url="file://$USER_HOME$/development/flutter/bin/cache/dart-sdk/lib/convert" />
+        <root url="file://$USER_HOME$/development/flutter/bin/cache/dart-sdk/lib/core" />
+        <root url="file://$USER_HOME$/development/flutter/bin/cache/dart-sdk/lib/developer" />
+        <root url="file://$USER_HOME$/development/flutter/bin/cache/dart-sdk/lib/ffi" />
+        <root url="file://$USER_HOME$/development/flutter/bin/cache/dart-sdk/lib/html" />
+        <root url="file://$USER_HOME$/development/flutter/bin/cache/dart-sdk/lib/indexed_db" />
+        <root url="file://$USER_HOME$/development/flutter/bin/cache/dart-sdk/lib/io" />
+        <root url="file://$USER_HOME$/development/flutter/bin/cache/dart-sdk/lib/isolate" />
+        <root url="file://$USER_HOME$/development/flutter/bin/cache/dart-sdk/lib/js" />
+        <root url="file://$USER_HOME$/development/flutter/bin/cache/dart-sdk/lib/js_util" />
+        <root url="file://$USER_HOME$/development/flutter/bin/cache/dart-sdk/lib/math" />
+        <root url="file://$USER_HOME$/development/flutter/bin/cache/dart-sdk/lib/mirrors" />
+        <root url="file://$USER_HOME$/development/flutter/bin/cache/dart-sdk/lib/svg" />
+        <root url="file://$USER_HOME$/development/flutter/bin/cache/dart-sdk/lib/typed_data" />
+        <root url="file://$USER_HOME$/development/flutter/bin/cache/dart-sdk/lib/web_audio" />
+        <root url="file://$USER_HOME$/development/flutter/bin/cache/dart-sdk/lib/web_gl" />
+        <root url="file://$USER_HOME$/development/flutter/bin/cache/dart-sdk/lib/web_sql" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+      <CLASSES>
+        <root url="file://$PROJECT_DIR$" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="gradle-wrapper">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</project>
